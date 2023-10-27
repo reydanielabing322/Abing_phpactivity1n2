@@ -8,6 +8,7 @@
 <body>
     <?php
 
+//comment
 
 $string = "Rey Daniel L. Abing";
 
@@ -26,6 +27,7 @@ for ($i = 0; $i < $len; $i++) {
     }
 }echo "There are <strong>" . $num . " vowels</strong> in the name: <strong>" . $string . "</strong>";
 ?>
+
 
 </body>
 </html>
